@@ -28,3 +28,5 @@ server.get("/data",(req,res))
 server.listen(6969,function(){
     console.log("now running on 6969")
 })
+
+// TODO make this send, update and delete things
